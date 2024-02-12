@@ -23,5 +23,5 @@ default:
 }
 
 // Saída: Deve aparacer a mensagem com o nome do herói e o nível:
-console.log( "O Herói de nome " + nomeDoHeroi + "está no nível de " + nivelDoHeroi);
+console.log ("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivelDoHeroi);
 
