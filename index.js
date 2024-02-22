@@ -2,7 +2,7 @@
 let nomeDoHeroi = "John"
 let xpDoHeroi = 9700
 
-// Descrever os níveis de experiência do herói utilizando os operadores de comparação, lógico e estrutura de descisão switch case e default:
+// Descrever os níveis de experiência do herói. Utilizei os operadores de comparação, lógico e estrutura de descisão switch case e default:
 let nivelDoHeroi;
 switch (xpDoHeroi) {case xpDoHeroi < 1000: nivelDoHeroi = "Ferro"; 
 break;
